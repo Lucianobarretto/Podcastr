@@ -53,7 +53,7 @@
 
 
 <p align="center">  
-  <a href="https://github.com/Lucianobarretto/Ignite_reactjs_ignews/blob/master/LICENSE.md">
+  <a href="https://github.com/Lucianobarretto/Podcastr/blob/main/LICENSE.md">
     <img alt="License" src="https://img.shields.io/badge/LICENSE-MIT-orange">
   </a>
 </p>
