@@ -23,6 +23,12 @@
 
 <br>
 
+## :page_facing_up: Descrição
+<h5 align="center">O Podcastr é um app para ouvir podcasts sobre o desenvolvimento web/mobile,  programação e afins...<br>
+  Este projeto apresenta os fundamentos do Next.js, como ele transforma a nossa maneira de desenvolver aplicações front-end e conceitos importantes como SSR e SSG. Também como o front-end se transformou nos últimos anos com a possibilidade de termos funções back-end (serverless) executando em um ambiente front-end. É muito comum o desenvolvimento de aplicações front-end que não estão conectadas a um único back-end hoje em dia, por isso, aqui está o conceito de JAMStack e como conectar nosso front-end com um CMS.  :octocat:</h5>
+
+<br>
+
 <p align="center">
   <kbd><img align="center" src="podcastrTela1.png" alt="Tela do projeto" width="900"/></kbd>
 </p>
@@ -32,10 +38,6 @@
 <p align="center">
   <kbd><img align="center" src="podcastrTela2.png" alt="Tela do projeto" width="900"/></kbd>
 </p>
-
-<br>
-
-<h5 align="center">Este projeto apresenta os fundamentos e como o Next.js transforma a nossa maneira de desenvolver aplicações front-end e conceitos importantes como SSR e SSG. Também como o front-end se transformou nos últimos anos com a possibilidade de termos funções back-end (serverless) executando em um ambiente front-end. É muito comum o desenvolvimento de aplicações front-end que não estão conectadas a um único back-end hoje em dia, por isso, aqui está o conceito de JAMStack e como conectar nosso front-end com um CMS.  :octocat:</h5>
 
 <br>
 
@@ -61,11 +63,10 @@
 
 <br>
 
-## :page_facing_up: Descrição
-O Podcastr é um app para ouvir podcasts sobre o desenvolvimento web/mobile,  programação e afins...
-
 ## :art: Layout
 Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravês <a href="https://www.figma.com/file/5KchzYko8NeeV0suqrSi6x/Podcastr-(Copy)?node-id=199599%3A1028">desse link<a>.
+
+<br>
 
 ## 🛠 Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias
@@ -74,6 +75,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 - [React.js](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Sass](https://sass-lang.com/)
+
+<br>
 
 ## :clipboard: Funcionalidades
 - [x] Tocar podcast.
@@ -84,6 +87,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 - [x] Opção de Loop.
 - [x] Opção para embaralhar.
 
+<br>
 
 ## :closed_book: Instalação
 
@@ -93,19 +97,23 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório.
-$ git clone https://github.com/alexandredev3/podcastr-nlw05.git
+$ git clone https://github.com/Lucianobarretto/Podcastr.git
 
-# Vá para a pasta podcastr-nlw05
-$ cd podcastr-nlw05
+# Vá para a pasta Podcastr
+$ cd Podcastr
 
 # Instale as dependências
-$ npm install 
+$ yarn install 
 
 # Execute aplicação
-$ npm run dev
+$ yarn dev
+
+# Execute o servidor
+$ yarn server
 
 # O app vai está rodando na porta 3000 - acesse <http://localhost:3000>
 ```
+<br>
 
 ## :memo: Licença
 
