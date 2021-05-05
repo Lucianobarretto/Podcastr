@@ -47,10 +47,6 @@
 
 <br>
 
-<p align="center">
-  <kbd><img align="center" src="./public/readmeContent/nextjs2.png" alt="Imagem Nextjs, Reactjs e JavaScript" width="300"/></kbd>
-</p>
-
 #
 
 <h3 align="center">#Participação na 5º edição do Next_Level_Week, de 19 a 25 de abril de 2021</h3>
@@ -75,6 +71,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 - [React.js](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Sass](https://sass-lang.com/)
+- [Node.js](https://nodejs.org/en/)
+
+<p align="center">
+  <kbd><img align="center" src="./public/readmeContent/tecnologias.png" alt="Imagem Nextjs, Reactjs e JavaScript" width="300"/></kbd>
+</p>
 
 <br>
 
