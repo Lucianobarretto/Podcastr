@@ -1,4 +1,10 @@
-# <h1 align="center">Podcastr (NLW#05 - Trilha ReactJS)</h1>
+<h1 align="center">
+  <img width="400px" src="./Podcastr.svg" />
+ </h1>
+
+<h1 align="center">
+  NLW#05 - Trilha ReactJS
+</h1>
 
 <br>
 
@@ -7,7 +13,24 @@
 <br>
 
 <p align="center">
-  <kbd><img align="center" src="podcastrTela.png" alt="Tela do projeto" width="900"/></kbd>
+  <a href="#page_facing_up-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#art-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#clipboard-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#closed_book-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-Licença">Licença</a>
+</p>
+
+<br>
+
+<p align="center">
+  <kbd><img align="center" src="podcastrTela1.png" alt="Tela do projeto" width="900"/></kbd>
+</p>
+
+<br>
+
+<p align="center">
+  <kbd><img align="center" src="podcastrTela2.png" alt="Tela do projeto" width="900"/></kbd>
 </p>
 
 <br>
@@ -38,18 +61,55 @@
 
 <br>
 
-<h2 align="center">Under Construction</h2>
+## :page_facing_up: Descrição
+O Podcastr é um app para ouvir podcasts sobre o desenvolvimento web/mobile,  programação e afins...
 
-<br>
+## :art: Layout
+Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravês <a href="https://www.figma.com/file/5KchzYko8NeeV0suqrSi6x/Podcastr-(Copy)?node-id=199599%3A1028">desse link<a>.
 
-<p align="center">
-  <kbd><img align="center" src="under-construction.gif" alt="Under Construction" width="450"/></kbd>
-</p>
+## 🛠 Tecnologias
+Este projeto foi desenvolvido com as seguintes tecnologias
 
-#
+- [Next.js](https://nextjs.org/)
+- [React.js](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Sass](https://sass-lang.com/)
 
-<h3 align="center">Licença</h3>
-<h6 align="center">Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.</h6>
+## :clipboard: Funcionalidades
+- [x] Tocar podcast.
+- [x] Quando um podcast acaba, outro começa em seguida.
+- [x] Selecionar apenas um podcast para ouvir.
+- [x] Opção de ir para o próximo podcast.
+- [x] Opção de ir para o anterior podcast.
+- [x] Opção de Loop.
+- [x] Opção para embaralhar.
+
+
+## :closed_book: Instalação
+
+### Pré-requisitos
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+```bash
+# Clone este repositório.
+$ git clone https://github.com/alexandredev3/podcastr-nlw05.git
+
+# Vá para a pasta podcastr-nlw05
+$ cd podcastr-nlw05
+
+# Instale as dependências
+$ npm install 
+
+# Execute aplicação
+$ npm run dev
+
+# O app vai está rodando na porta 3000 - acesse <http://localhost:3000>
+```
+
+## :memo: Licença
+
+<h5 align="center">Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.</h5>
 
 
 <p align="center">  
@@ -60,8 +120,12 @@
 
 ---
 
+<p align="center">
+  <img align="center" src="Logo.png" alt="Logo Luciano Barreto" width="350"/>
+</p>
+
 <p align="center">  
   <a href="https://www.linkedin.com/in/lucianobalmeida/">
-    <img alt="Made by Luciano Barreto" src="https://img.shields.io/badge/Being%20developed%20by-Luciano%20Barreto-blue">
+    <img alt="Made by Luciano Barreto" src="https://img.shields.io/badge/Made%20by-Luciano%20Barreto-blue">
   </a>  
 </p>
