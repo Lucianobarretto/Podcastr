@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="400px" src="./Podcastr.svg" />
+  <img width="400px" src="./public/readmeContent/Podcastr.svg" />
  </h1>
 
 <h1 align="center">
@@ -30,25 +30,25 @@
 <br>
 
 <p align="center">
-  <kbd><img align="center" src="podcastrTela1.png" alt="Tela do projeto" width="900"/></kbd>
+  <kbd><img align="center" src="./public/readmeContent/podcastrTela1.png" alt="Tela do projeto" width="900"/></kbd>
 </p>
 
 <br>
 
 <p align="center">
-  <kbd><img align="center" src="podcastrTela2.png" alt="Tela do projeto" width="900"/></kbd>
+  <kbd><img align="center" src="./public/readmeContent/podcastrTela2.png" alt="Tela do projeto" width="900"/></kbd>
 </p>
 
 <br>
 
 <p align="center">
-  <kbd><img align="center" src="nlw5Tela.png" alt="Imagem NLW#05" width="800"/></kbd>
+  <kbd><img align="center" src="./public/readmeContent/nlw5Tela.png" alt="Imagem NLW#05" width="800"/></kbd>
 </p>
 
 <br>
 
 <p align="center">
-  <kbd><img align="center" src="nextjs2.png" alt="Imagem Nextjs, Reactjs e JavaScript" width="300"/></kbd>
+  <kbd><img align="center" src="./public/readmeContent/nextjs2.png" alt="Imagem Nextjs, Reactjs e JavaScript" width="300"/></kbd>
 </p>
 
 #
@@ -58,7 +58,7 @@
 <br>
 
 <p align="center">
-  <kbd><img align="center" src="nlw5Card.jpg" width="450"/></kbd>
+  <kbd><img align="center" src="./public/readmeContent/nlw5Card.jpg" width="450"/></kbd>
 </p>
 
 <br>
@@ -129,7 +129,7 @@ $ yarn server
 ---
 
 <p align="center">
-  <img align="center" src="Logo.png" alt="Logo Luciano Barreto" width="350"/>
+  <img align="center" src="./public/readmeContent/Logo.png" alt="Logo Luciano Barreto" width="350"/>
 </p>
 
 <p align="center">  
